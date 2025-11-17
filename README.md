@@ -20,3 +20,7 @@ O Design deve ser fácil de navegar ( o utilizador muitas vezes tem as mãos mol
 As calculadoras não podem ser apenas conversores de unidades de medida.
 As bases de dados tem que incluir plantas.
 O Registo de Aquários devia incluir a quantidade dos vários produtos químicos (e quantidades) usados para manutenção.
+
+## Como contribuir
+
+### Licença
